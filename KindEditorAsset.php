@@ -1,5 +1,5 @@
 <?php
-namespace kindeditor;
+namespace anrhkk\kindeditor;
 
 use yii\web\AssetBundle;
 

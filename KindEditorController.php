@@ -1,6 +1,6 @@
 <?php
 
-namespace kindeditor;
+namespace anrhkk\kindeditor;
 
 use Yii;
 use yii\web\Controller;

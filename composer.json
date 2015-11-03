@@ -1,0 +1,21 @@
+{
+    "name": "anrhkk/kindeditor",
+    "description": "yii2-kindeditor编辑器",
+    "type": "yii2-extension",
+    "keywords": ["yii2","kindeditor"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rootkit",
+            "email": "tekadmin@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mkui\\kindeditor\\": ""
+        }
+    }
+}

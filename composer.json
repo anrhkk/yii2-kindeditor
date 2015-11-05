@@ -6,8 +6,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rootkit",
-            "email": "tekadmin@163.com"
+            "name": "anrhkk",
+            "email": "anrhkk@139.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mkui\\kindeditor\\": ""
+            "anrhkk\\kindeditor\\": ""
         }
     }
 }
